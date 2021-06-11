@@ -1,0 +1,2 @@
+rootProject.name = "NguyenHuuHieu_AppQLNV"
+include ':app'
